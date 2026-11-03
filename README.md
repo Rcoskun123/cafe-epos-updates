@@ -14,11 +14,11 @@ Automatic updates are opt-in in the existing app. This channel is for the origin
 
 ## Current approved demonstration release
 
-Version 0.9.106-home-test (Android version code 122); requires Android 15 or later.
+Version 0.9.108-home-test (Android version code 124); requires Android 15 or later.
 Package: com.cafeepos.androidlite.test
-APK SHA-256: 52415582bde1fd4aff20c859f4f94a99b3474ca108826278fbea645426151ea2
+APK SHA-256: dd37bb921fde9f0e3a75749795582824492cc860f2d9108ca57a586b19f175c0
 APK signer SHA-256: 7cc09cc3622266446cc794b7da18d3cb5bb907e53757c9ecb2feb1e5f932f75c
 
-The original tablets have received the one-time setup version. Complete hands-off installation/reopening/reconnection on both real tablets remains pending; software checks alone do not prove it. This is not a general installer for unapproved devices.
+The original tablets have received a checked correction: an unchanged saved menu-editor copy no longer blocks an idle update. Edited or stale menu drafts and unfinished price inputs still postpone installation. Complete hands-off installation/reopening/reconnection on both real tablets remains pending; software checks alone do not prove it. This is not a general installer for unapproved devices.
 
 Only explicitly promoted releases are published here. A source-code checkpoint is not automatically an approved update. There is no monthly hosting subscription introduced by this setup; ordinary internet/data costs can still apply. Local recovery copies are not off-device backups or proven replacement-tablet recovery.
