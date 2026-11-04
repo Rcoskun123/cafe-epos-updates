@@ -14,11 +14,11 @@ Automatic updates are opt-in in the existing app. This channel is for the origin
 
 ## Current approved demonstration release
 
-Version 0.9.109-home-test (Android version code 125); requires Android 15 or later.
+Version 0.9.117-home-test (Android version code 133); requires Android 15 or later.
 Package: com.cafeepos.androidlite.test
-APK SHA-256: e344e1192a6b28151e31a57886756019dc90ee8de5626cd3f30708c8f16e81a3
+APK SHA-256: 5e000a9b9441bf7fe250dfe78fb7b105cd679e1ccc706f8132e1d2016e555be9
 APK signer SHA-256: 7cc09cc3622266446cc794b7da18d3cb5bb907e53757c9ecb2feb1e5f932f75c
 
-This release adds the owner-requested Scrambled egg shortcut to the original swap picker, preserving existing explicit rules and uncharged custom-swap behaviour. Tablet/phone checks pass against a private isolated full saved menu copy; no cafe data is in the download. Physical installation of this release is pending. The original tablets have received a checked correction: an unchanged saved menu-editor copy no longer blocks an idle update. Edited or stale menu drafts and unfinished price inputs still postpone installation. Complete hands-off installation/reopening/reconnection on both real tablets remains pending; software checks alone do not prove it. This is not a general installer for unapproved devices.
+This approved forward release retains the existing .116 Android connection, background-service, Back-button and retry repairs, plus the original menu, trading and printing functionality. It supports the exact original 132/0.9.116 and 133/0.9.117 rolling pair. Both actual devices remain .116 at the last verification; hands-off installation/reopening/preservation/reconnection of this forward version is PENDING. Downloads or software checks alone are not a completed update. Keep both charging on the same working local Wi-Fi with EPOS open. Locked, stopped, busy or uncertain operations safely postpone installation. No lock bypass, remote click or ASUS/VPN installation is used. Existing Install now remains a separate deliberate owner option with the same safety gates. This is not a general installer for unapproved devices.
 
 Only explicitly promoted releases are published here. A source-code checkpoint is not automatically an approved update. There is no monthly hosting subscription introduced by this setup; ordinary internet/data costs can still apply. Local recovery copies are not off-device backups or proven replacement-tablet recovery.
